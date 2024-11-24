@@ -6,6 +6,9 @@ main:
   - title: "学历"
     url: "/#education"
 
+  - title: "消息"
+    url: "/#news"
+
   - title: "论文专利"
     url: "/#publications"
 
