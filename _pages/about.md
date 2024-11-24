@@ -29,6 +29,11 @@ redirect_from:
 - 人工智能
 - AIGC
 
+<span class='anchor' id='news'></span>
+
+# 🔥消息
+- 2024.11.08 🎉一篇论文被DISPLAYS期刊接受(本人第一篇论文)
+
 <span class='anchor' id='education'></span>
 
 # 🎓 学历
