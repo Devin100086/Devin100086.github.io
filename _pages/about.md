@@ -27,7 +27,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2021.09 - 2025.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 浙江工业大学 计算机科学与技术学院, 浙江杭州, 本科
+- *2025.09 - 2028.06*, <a href="https://www.nuaa.edu.cn/"><img class="svg" src="/images/nuaa.jpg" width="20pt"></a> 南京航空航天大学 计算机科学与技术学院, 江苏南京, 硕士
+- *2021.09 - 2025.06*, <a href="https://www.zjut.edu.cn/"><img class="svg" src="/images/zjut.svg" width="20pt"></a> 浙江工业大学 计算机科学与技术学院, 浙江杭州, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
