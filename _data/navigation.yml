@@ -2,13 +2,13 @@
 main:
   - title: "个人介绍"
     url: "/#about-me"
-
-  - title: "学历"
-    url: "/#education"
-
+    
   - title: "消息"
     url: "/#news"
 
+  - title: "学历"
+    url: "/#education"
+    
   - title: "论文专利"
     url: "/#publications"
 
