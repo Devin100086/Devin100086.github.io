@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "吴存圻"
-description              : "3D视觉"
+title                    : "Cunqi Wu"
+description              : "3D Vision"
 repository               : "Devin100086/Devin100086.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "吴存圻"
+  name             : "Cunqi Wu"
   avatar           : "images/img.png"
-  bio              : "浙江工业大学"
-  location         : "浙江 杭州"
+  bio              : "Zhejiang University of Technology"
+  location         : "Zhejiang Hangzhou, China"
   employer         : #"Zhejiang University of Technology"
   pubmed           : 
   googlescholar    : 
