@@ -25,13 +25,13 @@ redirect_from:
 - 人工智能
 - AIGC
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='Educations'></span>
 
 # 🎓 学历
 - *2025.09 - 2028.06*, <a href="https://www.nuaa.edu.cn/"><img class="svg" src="/images/nuaa.jpg" width="20pt" height="20pt"></a> 南京航空航天大学 计算机科学与技术学院, 江苏南京, 硕士
 - *2021.09 - 2025.06*, <a href="https://www.zjut.edu.cn/"><img class="svg" src="/images/zjut.jpg" width="20pt" height="20pt"></a> 浙江工业大学 计算机科学与技术学院, 浙江杭州, 本科
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='Publications'></span>
 
 # 📝 论文专利
 
@@ -52,12 +52,12 @@ redirect_from:
 </div>
 </div>
 
-<span class='anchor' id='-ryjx'></span>
+<span class='anchor' id='Honors'></span>
 
 # 🏅 荣誉奖项
 - *2022.10* 获得 高教社杯全国大学生数学建模大赛 `浙江省一等奖`  
 
-<span class='anchor' id='-xshy'></span>
+<span class='anchor' id='Internships'></span>
 
 <!--# 🏛️ 学术会议
 ;- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
