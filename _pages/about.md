@@ -37,8 +37,8 @@ My research areas include:
 <span class='anchor' id='education'></span>
 
 # 🎓 Educations
-- *2025.09 - 2028.06*, <a href="https://www.nuaa.edu.cn/"><img class="svg" src="/images/nuaa.jpg" width="20pt" height="20pt"></a> Nanjing University of Aeronautics and Astronautics, College of Computer Science and Technology, Nanjing Jiangsu, Master
-- *2021.09 - 2025.06*, <a href="https://www.zjut.edu.cn/"><img class="svg" src="/images/zjut.jpg" width="20pt" height="20pt"></a> Zhejiang University of Technology, Jianxing Honors College, Zhejiang Hangzhou, Undergraduate
+- *2025.09 - 2028.06*, <a href="https://www.nuaa.edu.cn/"><img class="svg" src="/images/nuaa-logo.svg" width="20pt"></a> Nanjing University of Aeronautics and Astronautics, College of Computer Science and Technology, Nanjing Jiangsu, Master
+- *2021.09 - 2025.06*, <a href="https://www.zjut.edu.cn/"><img class="svg" src="/images/zjut-logo.svg" width="20pt"></a> Zhejiang University of Technology, Jianxing Honors College, Zhejiang Hangzhou, Undergraduate
 
 <span class='anchor' id='publications'></span>
 
@@ -65,14 +65,6 @@ My research areas include:
 
 # 🏅 Honors
 - *2022.10* The Higher Education Press National Undergraduate Mathematical Modeling Competition `First Prize in Zhejiang Province`  
-
-<!--# 🏛️ 学术会议
-;- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-;- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-;- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
-
-<span class='anchor' id='-gzsx'></span>
--->
 
 <span class='anchor' id='internships'></span>
 
