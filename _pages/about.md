@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋Introduction
-I am currently a senior student, focusing on 3D research.
+I am currently a master's student in NUAA, focusing on 3D research.
 
 I am currently working on 3D generation, 3D editing, etc. If you would like to discuss this research with me,😄Feel free to email me: wucunqi2003@126.com。
 
