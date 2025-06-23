@@ -37,7 +37,7 @@ My research areas include:
 <span class='anchor' id='education'></span>
 
 # 🎓 Educations
-- *2025.09 - 2028.06*, <a href="https://www.nuaa.edu.cn/"><img class="svg" src="/images/nuaa-logo.svg" width="20pt"></a> Nanjing University of Aeronautics and Astronautics, College of Computer Science and Technology, Nanjing Jiangsu, Master
+- *2025.09 - 2028.06*, <a href="https://www.nuaa.edu.cn/"><img class="svg" src="/images/nuaa-logo.svg" width="20pt"></a> Nanjing University of Aeronautics and Astronautics, College of Computer Science and Technology, Jiangsu Nanjing, Master
 - *2021.09 - 2025.06*, <a href="https://www.zjut.edu.cn/"><img class="svg" src="/images/zjut-logo.svg" width="20pt"></a> Zhejiang University of Technology, Jianxing Honors College, Zhejiang Hangzhou, Undergraduate
 
 <span class='anchor' id='publications'></span>
