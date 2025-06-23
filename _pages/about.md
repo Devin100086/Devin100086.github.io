@@ -22,7 +22,7 @@ I am currently a senior student, focusing on 3D research.
 
 I am currently working on 3D generation, 3D editing, etc. If you would like to discuss this research with me,😄Feel free to email me: wucunqi2003@126.com。
 
-I completed my undergraduate studies in Software Engineering at the Jianxing Honors College(健行学院) of Zhejiang University of Technology. I then pursued my master's degree in Computer Technology at the College of Computer Science and Technology of Nanjing University of Aeronautics and Astronautics.
+I completed my undergraduate studies in Software Engineering at the Jianxing Honors College(健行学院) of Zhejiang University of Technology. I am pursuing my master's degree in Computer Technology at the College of Computer Science and Technology of Nanjing University of Aeronautics and Astronautics.
 
 My research areas include:
 - 3D Vision
@@ -64,7 +64,8 @@ My research areas include:
 <span class='anchor' id='honors'></span>
 
 # 🏅 Honors
-- *2022.10* The Higher Education Press National Undergraduate Mathematical Modeling Competition `First Prize in Zhejiang Province`  
+- *2022.10* The Higher Education Press National Undergraduate Mathematical Modeling Competition `First Prize in Zhejiang Province`
+- *2025.06* `Outstanding Graduate` of Zhejiang University of Technology   
 
 <span class='anchor' id='internships'></span>
 
